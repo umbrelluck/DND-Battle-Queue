@@ -1,0 +1,9 @@
+[name1]
+initiative = 15
+hp = 5
+
+[player]
+initiative = 10
+
+[doter]
+initiative = 13
